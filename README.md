@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hello there!
+######  (_General Kenobi_)
+<img src="hello.gif" width="240" height="104"/>
 
-<!--
-**lucablackwell/lucablackwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Luca Blackwell, a DevOps Apprentice at [Visualsoft](https://visualsoft.co.uk)!
 
-Here are some ideas to get you started:
+What I work with:
+- PHP (Laravel)
+- Blade
+- Markdown
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I've dabbled in:
+- Bash
+- Python
+- Go
+
+What I'm currently working on: 
+- Developing [Winchester](https://winchester.visualsoft.io)
+- Contributing where I can to [One Liner Hub](https://onelinerhub.com/)
+
+🌸 [_shameless poetry collection self-promotion_](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) 🌸
