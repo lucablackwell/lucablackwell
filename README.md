@@ -4,18 +4,12 @@
 
 I'm Luca Blackwell, a DevOps Apprentice at [Visualsoft](https://visualsoft.co.uk)!
 
-What I work with:
-- PHP (Laravel)
-- Blade
-- Markdown
+I work with _PHP_ / _Laravel_ the most, using _Blade_ and _Markdown_ when needed.
 
-What I've dabbled in:
-- Bash
-- Python
-- Go
+I'm confident with _Python_, less so with _Bash_ (but getting there.)
 
 What I'm currently working on: 
 - Developing [Winchester](https://winchester.visualsoft.io)
 - Contributing where I can to [One Liner Hub](https://onelinerhub.com/)
 
-🌸 [_shameless poetry collection self-promotion_](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) 🌸
+🌸 [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) 🌸
