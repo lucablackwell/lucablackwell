@@ -1,6 +1,7 @@
 ## Hello there!
 
 <img src="hello.gif" width="240" height="104"/>
+
 ######  (_General Kenobi_)
 
 I'm Luca Blackwell, a DevOps Apprentice at [Visualsoft](https://visualsoft.co.uk)!
@@ -20,4 +21,9 @@ What I'm currently working on:
 - Developing Winchester & VS Hub (VS projects)
 - Contributing where I can to [One Liner Hub](https://onelinerhub.com/)
 
-🦕 [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) 🦕
+<br></br>
+#### Links:
+
+:cherry_blossom: [**my commits of the last year in 3D**](https://skyline.github.com/lucablackwell/2022) :cherry_blossom:
+
+:sauropod: [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) :sauropod:
