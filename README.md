@@ -19,11 +19,13 @@ What I've dabbled in:
 
 What I'm currently working on: 
 - Developing Winchester & VS Hub (VS projects)
-- Contributing where I can to [One Liner Hub](https://onelinerhub.com/)
+- Contributing where I can to [Onelinerhub](https://onelinerhub.com/)
 
-<br></br>
-#### Links:
-
-:cherry_blossom: [**my commits of the last year in 3D**](https://skyline.github.com/lucablackwell/2022) :cherry_blossom:
-
-:sauropod: [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) :sauropod:
+Links:
+- :cherry_blossom: [**my commits of the last year in 3D**](https://skyline.github.com/lucablackwell/2022) :cherry_blossom:
+- [**bash script to swap between local docker-compose instances**](https://gist.github.com/lucablackwell/d26be4ac9b5f245cda9b7a65b330eeda)
+- [**one-line or interactive CLI 'password-ifier'**](https://gist.github.com/lucablackwell/46fbe70e84fab033fbbd67505518bcca)
+- [**interactive CLI text adventure based on the game 'eXit' from the series Mr Robot—with a 'secret' mode**](https://github.com/lucablackwell/eXit)
+- [**interactive CLI experience of my longest poem to date (being adapted into an rpgmaker game)**](https://gist.github.com/lucablackwell/d021e6fa7d53cc38f8f06591c32fa093)
+- [**CLI-ification of my favourite childhood boardgame, Lego Heroica**](https://github.com/lucablackwell/heroica)
+- :sauropod: [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) :sauropod:
