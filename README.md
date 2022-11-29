@@ -1,12 +1,20 @@
 ## Hello there!
-######  (_General Kenobi_)
+
 <img src="hello.gif" width="240" height="104"/>
+######  (_General Kenobi_)
 
 I'm Luca Blackwell, a DevOps Apprentice at [Visualsoft](https://visualsoft.co.uk)!
 
-I work with _PHP_ and _Laravel_ the most, using _Blade_ and _Markdown_ when needed.
+What I work with:
 
-I'm confident with _Python_, less so with _Bash_ (but getting there.)
+- PHP (Laravel)
+- Blade
+- Markdown
+
+What I've dabbled in:
+- Bash (short scripts for swapping containers around)
+- Python (my first language, used for Computer Science at GCSE)
+- Go
 
 What I'm currently working on: 
 - Developing Winchester & VS Hub (VS projects)
