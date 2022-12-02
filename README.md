@@ -28,4 +28,5 @@ Links:
 - :sauropod: [**interactive CLI text adventure based on the game 'eXit' from the series Mr Robot—with a 'secret' mode**](https://github.com/lucablackwell/eXit) :sauropod:
 - :cherry_blossom: [**interactive CLI experience of my longest poem to date (being adapted into an rpgmaker game)**](https://gist.github.com/lucablackwell/d021e6fa7d53cc38f8f06591c32fa093) :cherry_blossom:
 - :sauropod: [**CLI-ification of my favourite childhood boardgame, Lego Heroica**](https://github.com/lucablackwell/heroica) :sauropod:
-- :cherry_blossom: [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) :cherry_blossom:
+- :cherry_blossom: [my (public) gists](https://gist.github.com/lucablackwell) :cherry_blossom:
+- :sauropod: [**shameless poetry collection self-promotion**](https://www.amazon.co.uk/Dead-House-Collection-Luca-Blackwell/dp/B09NVLQV38/) :sauropod:
