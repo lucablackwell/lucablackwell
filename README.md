@@ -4,7 +4,7 @@
 
 ######  (_General Kenobi_)
 
-I'm Luca Blackwell, a DevOps Apprentice at [Visualsoft](https://visualsoft.co.uk)!
+I'm Luca Blackwell!
 
 What I work with:
 
@@ -18,7 +18,6 @@ What I've dabbled in:
 - Go
 
 What I'm currently working on: 
-- Developing Winchester & VS Hub (VS projects)
 - Contributing where I can to [Onelinerhub](https://onelinerhub.com/)
 
 Links:
