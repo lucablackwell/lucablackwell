@@ -18,7 +18,7 @@ What I've dabbled in:
 - Go
 
 What I'm currently working on: 
-- Contributing where I can to [Onelinerhub](https://onelinerhub.com/)
+- Contributing where I can to [Onelinerhub](https://gist.github.com/lucablackwell/aae025bed1e3d49bc32c99fd55a4f2ef)
 
 Links:
 - :cherry_blossom: [**my commits of the last year in 3D**](https://skyline.github.com/lucablackwell/2022) :cherry_blossom:
