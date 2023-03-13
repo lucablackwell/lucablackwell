@@ -21,6 +21,7 @@ What I'm currently working on:
 - Contributing where I can to [Onelinerhub](https://gist.github.com/lucablackwell/aae025bed1e3d49bc32c99fd55a4f2ef)
 
 Links:
+- :sauropod: [**my wikipedia speedruns profile**](https://wikispeedruns.com/profile/lucabutbi) [_(repo here on github)_](https://github.com/wikispeedruns/wikipedia-speedruns) :sauropod:
 - :cherry_blossom: [**my commits of the last year in 3D**](https://skyline.github.com/lucablackwell/2022) :cherry_blossom:
 - :sauropod: [**bash script to swap between local docker-compose instances**](https://gist.github.com/lucablackwell/d26be4ac9b5f245cda9b7a65b330eeda) :sauropod:
 - :cherry_blossom: [**one-line or interactive CLI 'password-ifier'**](https://gist.github.com/lucablackwell/46fbe70e84fab033fbbd67505518bcca) :cherry_blossom:
